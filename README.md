@@ -17,3 +17,5 @@ Open postman, copy and paste the port address into Postman Get:  https://localho
 you can verify port by going to VSCode -> Debug Console -> Scroll up until you see “Now listening on port”
 Add Input Controller Name, route name, and user input as follows.  Example: https://localhost:7000/CName/RName/name/time
 Then click “Send” to show output.
+
+https://github.com/JLamzon/lamzonJ-AskQuestionsEndPoint
